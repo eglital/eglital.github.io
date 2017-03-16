@@ -1,3 +1,3 @@
 # personal_website
 
-https://eglital.github.io/
+https://www.eglelibby.com
